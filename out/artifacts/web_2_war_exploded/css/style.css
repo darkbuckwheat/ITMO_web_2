@@ -1,0 +1,31 @@
+.one_line {
+    display: inline-block;
+    padding: 20px;
+    vertical-align: top;
+}
+#y {
+    width: 250px;
+}
+#submit {
+    height: 20px;
+    width: 80px;
+}
+#headd {
+    height: 40px;
+}
+.results-holder {
+    padding: 20px;
+}
+
+table {
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 90%;
+}
+
+table td {
+    border: 1px solid black;
+}
+table th {
+    border: 1px solid black;
+}
